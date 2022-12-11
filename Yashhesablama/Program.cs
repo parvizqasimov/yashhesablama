@@ -31,9 +31,7 @@
                 }
             }
             else
-            {
-                Console.WriteLine(yash);
-            }
+            
             Console.WriteLine($"dogum tarixi: {gun}.{ay}.{il} bugunki tarix: {bugun}.{buay}.{buil}  yash {yash}");
         }
     }
